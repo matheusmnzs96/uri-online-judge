@@ -1,7 +1,5 @@
 /* 
- * author: Matheus Menezes
- * ICOMP, UFAM
- * Manaus, Brazil
+ * Created by Matheus Menezes on 2018-04-17
  */
 
 #include <iostream>
